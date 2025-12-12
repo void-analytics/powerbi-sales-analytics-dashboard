@@ -1,55 +1,53 @@
 # 💼 Sales Performance Analytics Dashboard (Power BI)
 
-This project presents a **modern Power BI sales analytics dashboard** designed to evaluate **Sales Representatives’ performance, total revenue, average sales, and trend fluctuations**.  
-The dashboard enables organizations to **compare reps, track revenue patterns, and make informed decisions** through clean, interactive visuals.
+This project showcases a **Power BI sales analytics dashboard** created to analyze **Sales Representatives’ performance, total sales amount, and average revenue comparisons**.  
+The dashboard helps businesses **identify top performers, monitor revenue patterns, and quickly visualize rep-to-rep differences** through modern, interactive visuals.
 
 ---
 
-## 🎥 Project Demo
+## 🖼 Dashboard Preview
 
-<video src="https://github.com/user-attachments/assets/bf14a995-1994-4acb-bb62-957d7bb8b2e3"
-       controls
-       width="800">
-</video>
+<img src="https://github.com/user-attachments/assets/692bf00e-28ed-4b53-9ebd-86b39720551e"
+     width="800">
 
 ---
 
 ## 📊 Key Insights & Features
 
-- 🧑‍💼 **Top-performing Sales Representative identification**  
-- 💵 **Total Sales (KPI Card)**  
-- 📊 **Average sales per rep (Bar, Donut, and Line Charts)**  
-- 🔍 **Rep-to-rep performance comparison**  
-- 📉 **Trend analysis for declining or growing sales patterns**  
-- 🎨 **Dark-themed UI with vibrant color-coded insights**  
-- ⚡ **Fully interactive visuals with smooth transitions**
+- 🧑‍💼 **Top Sales Representative Highlight**
+- 💵 **Total Sales KPI Card**
+- 📊 **Average Total Price per Sales Rep (Bar Chart)**
+- 🍩 **Sales Rep Comparison (Donut Chart)**
+- 📉 **Sales Trend Visualization (Line Chart)**
+- 🟩 **Uniform color-coded metrics for quick comparison**
+- 🌙 **Stylish dark-themed dashboard layout**
 
 ---
 
 ## 🧩 Business Metrics Covered
 
-- Sales Rep performance breakdown  
-- Total revenue contribution  
-- Average transaction amount  
-- Comparative sales analytics  
-- Month-to-month or rep-to-rep trend visualization  
-- Consistency and variability in sales output  
+- Sales Rep performance comparison  
+- Average revenue generated per representative  
+- Overall revenue contribution  
+- Trend shifts in total prices  
+- Visual breakdown of reps with highest vs lowest averages  
+- KPI-based performance snapshot  
 
 ---
 
 ## 🔐 Data Privacy Notice
 
-To maintain **data confidentiality**, original **Power BI (.pbix) files and raw datasets are not shared publicly**.  
-This repository serves **portfolio and visualization showcase** purposes only.
+For **data protection purposes**, original **Power BI (.pbix) files and raw data sources** are not included.  
+This repository is intended **only for analytics portfolio demonstration**.
 
 ---
 
 ## 🛠 Tools & Technologies
 
 - **Microsoft Power BI**  
-- **DAX (Advanced Measures & KPIs)**  
+- **DAX (Custom Measures & KPIs)**  
 - **Power Query (Data Cleaning & ETL)**  
-- **Data Modeling**  
+- **Data Modeling & Relationships**  
 - **Excel / CSV Data Sources**  
 - **Data Transformation & Optimization**
 
@@ -57,21 +55,21 @@ This repository serves **portfolio and visualization showcase** purposes only.
 
 ## ⚙️ Project Workflow
 
-1. Sales data collected from Excel/CSV  
-2. Transformation handled in **Power Query**  
-3. Relationship model structured for efficient analysis  
-4. KPI calculations and averages built using **DAX**  
-5. Dashboard designed with a modern dark-theme layout  
+1. Raw sales data imported from Excel/CSV  
+2. Cleaned & shaped using **Power Query**  
+3. Relationships created for optimized modeling  
+4. **DAX measures** used to calculate KPIs & averages  
+5. Dashboard designed using a **dark-themed UI** for visual clarity  
 
 ---
 
 ## 🎯 Project Use Cases
 
-- Sales team performance monitoring  
-- Monthly or quarterly sales analysis  
-- Management-level reporting  
-- Portfolio demonstration for data analytics roles  
-- Benchmarking individual reps against team performance  
+- Monitoring sales performance  
+- Analyzing Sales Rep contribution  
+- Identifying high/low performing employees  
+- Business intelligence reporting  
+- Data analytics portfolio showcasing  
 
 ---
 
@@ -82,4 +80,5 @@ This repository serves **portfolio and visualization showcase** purposes only.
 
 ---
 
-⭐ If this project helped or inspired you, feel free to **star the repo** and follow for more Power BI dashboards!
+⭐ If you like this dashboard, please **star the repo** and follow for more analytics projects!
+
